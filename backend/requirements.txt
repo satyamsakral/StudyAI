@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+PyMuPDF
+python-docx
+python-multipart
+pydantic
+pyjwt
+youtube-transcript-api
+supabase 
